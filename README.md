@@ -66,9 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1544-make-the-string-great](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1544-make-the-string-great) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1684-count-the-number-of-consistent-strings) |
+## Stack
+|  |
+| ------- |
+| [1544-make-the-string-great](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
