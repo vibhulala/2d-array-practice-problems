@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2678-number-of-senior-citizens](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2678-number-of-senior-citizens) |
 ## Matrix
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2678-number-of-senior-citizens](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/vibhulala/2d-array-practice-problems/tree/master/3110-score-of-a-string) |
 ## Counting
 |  |
