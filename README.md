@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1544-make-the-string-great) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2000-reverse-prefix-of-word) |
+| [3110-score-of-a-string](https://github.com/vibhulala/2d-array-practice-problems/tree/master/3110-score-of-a-string) |
 ## Counting
 |  |
 | ------- |
