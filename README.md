@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0832-flipping-an-image) |
 | [2000-reverse-prefix-of-word](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2678-number-of-senior-citizens) |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [3110-score-of-a-string](https://github.com/vibhulala/2d-array-practice-problems/tree/master/3110-score-of-a-string) |
 ## Counting
 |  |
