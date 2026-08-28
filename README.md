@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2678-number-of-senior-citizens](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2678-number-of-senior-citizens) |
 ## Matrix
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0165-compare-version-numbers) |
 | [0832-flipping-an-image](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0832-flipping-an-image) |
 | [2000-reverse-prefix-of-word](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2000-reverse-prefix-of-word) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 ## Bit Manipulation
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0409-longest-palindrome) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## String
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0506-relative-ranks) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
