@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0506-relative-ranks) |
 | [0832-flipping-an-image](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0832-flipping-an-image) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0918-maximum-sum-circular-subarray) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0165-compare-version-numbers) |
+| [0349-intersection-of-two-arrays](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0832-flipping-an-image) |
 | [2000-reverse-prefix-of-word](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0349-intersection-of-two-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0409-longest-palindrome) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vibhulala/2d-array-practice-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/vibhulala/2d-array-practice-problems/tree/master/0506-relative-ranks) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/vibhulala/2d-array-practice-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Heap (Priority Queue)
