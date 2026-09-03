@@ -25,13 +25,23 @@ class Solution:
         #tc o(n^2)
         #sc o(n)
         '''
+        '''
+        brute force :- isme hamen kya kiy ana dekho ek depth nam ka counter liya usko set kiya ki ag ropening aya to ek badhoge badhne ke bad tb tk badhna jab oepning ate rhe fir maximum mein sabse bahd gaye abb closing jaise hi ana shuru hua hm depthwa ek ek karke ghataynege aur maximum rhegag wahi kyuki max() funtion ka use kiya hain to wahi rhega end mein max_depth return kar denge 
+
+        '''
+#bascially optimized bhi yahi hai bas kya karneeg ki max ko (  yh oepning jab check karneeg tb hi max_depth update kar denge poora karke krne ki jarurat nahi ahi 
         depth=0
         max_depth=0
         for c in s:
             if c=='(':
                 depth+=1
+                max_depth=max(max_depth,depth)
             elif c==')':
                 depth-=1
-            max_depth=max(max_depth,depth)
+            
         return max_depth
+        tc-o(n)
+        sc-o(1)
+        
+
 
